@@ -1,0 +1,6 @@
+{
+  "name": "Premium Flower E-Commerce Platform - Technical Docs & DevOps Portal",
+  "description": "Dokumentasi teknis komprehensif dan panduan pengembangan sistem lengkap: PRD, Tech Stack, Arsitektur Microservices, UI/UX Design System, dan DevOps Instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
